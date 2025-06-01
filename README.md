@@ -1,12 +1,12 @@
-# Oiee! Sou Dev Carolina Macioti.
+# Hello! I'm Dev Carolina Macioti.
 
 
-- 🔭 Trabalho como desenvolvedora Frontend
-- 📫 Contate-me através do e-mail: carolmacioti.dev@gmail.com
+- ⚙️ I'm a front-end software engineer currently working at LiveInShop;
+- 📫 Contact me by email: carolmacioti.dev@gmail.com
 
 ##
 
-## Tecnologias
+## Technolog
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
   
   ##
 
-## Redes Sociais
+## Social networks
 
 <div> 
   <a href=" https://www.youtube.com/channel/UCOHRBY06nvujCuqeoEs_RSA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
